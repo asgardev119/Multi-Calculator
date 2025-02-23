@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asgardev119.github.io/Multi-Calculator/sitemap.xml
